@@ -2603,7 +2603,7 @@
       "themeDesc": "PETAH",
       "themeAuthor": "Lebronm JAmes",
       "themeIcon": "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/skibidi.png",
-      "darkTheme": true
+      "darkTheme": false
     },
     "gifs": [
       "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/Pic1.png",
@@ -2612,9 +2612,14 @@
       "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/Pic4.png"
     ],
     "backgroundImages": [
-	
-      "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/IMG_20240213_221638_582.jpg",
-	  "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/PETAH.png"
+		 
+	  "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/IMG_20240213_221638_582.jpg",
+	  "https://raw.githubusercontent.com/xX0MishaTURBINA0Xx/LIGMA/main/PETAH.png",
+	  {
+        "type": "video",
+        "identifier": "https://github.com/xX0MishaTURBINA0Xx/LIGMA/raw/main/RDT_20240723_105034.mp4"
+      }
+     
 	  
     ],
     "backgroundImagesLandscape": [
